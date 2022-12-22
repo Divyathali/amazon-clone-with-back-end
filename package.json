@@ -1,0 +1,32 @@
+{
+    "name": "amazon-clone",
+    "version": "1.0.0",
+    "description": "following clever programmer tutorial to make amazon clone!",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+        "@material-ui/core": "4.11.0",
+        "@material-ui/icons": "4.9.1",
+        "firebase": "^9.15.0",
+        "react": "16.13.1",
+        "react-currency-format": "^1.0.0",
+        "react-dom": "16.13.1",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.4.3"
+    },
+    "devDependencies": {
+        "typescript": "3.8.3"
+    },
+    "scripts": {
+        "start": "react-scripts --openssl-legacy-provider start",
+        "build": "react-scripts --openssl-legacy-provider build",
+        "test": "react-scripts  --openssl-legacy-provider test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}
