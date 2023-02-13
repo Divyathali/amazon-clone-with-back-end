@@ -12,6 +12,7 @@ This clone page deals with the UI/UX design of amazon page, data handling with a
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" /></code>
 
  <br/>
+ 
 # Home page Design 
   <img align="left" width="600" heignt="300" src="https://github.com/Divyathali/amazon-clone-with-back-end/blob/main/amzon-clone-images/Amazon-front-home-page.png">
 <br/>
